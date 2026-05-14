@@ -48,5 +48,5 @@ All results are auto-saved to the ./output directory
 Lightweight, out-of-the-box, full-process LLM preprocessing toolkit with clean UI and professional engineering standards.
 
 备注 | Note
-本项目为个人学习与工程实践作品，仅用于学习、演示与简历展示，请勿用于商业用途。
+本项目为个人学习与工程实践作品，仅用于学习、实践展示，请勿用于商业用途。
 This project is for personal study, engineering practice, resume demonstration only. Not for commercial use.
